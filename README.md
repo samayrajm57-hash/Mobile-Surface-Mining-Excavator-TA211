@@ -89,10 +89,7 @@ The build deliberately spans a broad set of manufacturing techniques, making it 
 | Wheel (tyre) | Ø50 outer, Ø10 bore, 20 wide |
 | Conveyor Belt Frame | 182 long (160 roller span) |
 
-> All dimensions are in millimetres. Full dimensioned drawings are in the `cad/` folder.
-
----
-> Rename the folders to match what you actually push.
+> All dimensions are in millimetres.
 
 ---
 
