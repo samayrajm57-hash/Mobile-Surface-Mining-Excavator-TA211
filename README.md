@@ -92,17 +92,6 @@ The build deliberately spans a broad set of manufacturing techniques, making it 
 > All dimensions are in millimetres. Full dimensioned drawings are in the `cad/` folder.
 
 ---
-
-## Repository Structure
-
-```
-Mobile-Surface-Mining-Excavator/
-├── cad/          # Part drawings & 3D models (SolidWorks / STL / PDF)
-├── docs/         # Full project report, BOM, work distribution
-├── images/       # Photos & renders of the assembled model
-└── README.md
-```
-
 > Rename the folders to match what you actually push.
 
 ---
